@@ -1,2 +1,3 @@
-# grade-control-c6-phase-e-qualification
-C6 PHASE E qualification-only synthetic repository
+# RO6B synthetic qualification release
+
+Synthetic content only. Not a GRADE or BRIDGE publication.
